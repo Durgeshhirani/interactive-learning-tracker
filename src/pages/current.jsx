@@ -196,10 +196,11 @@ function Current() {
               <div className="card">
                 <h1>Back End Frameworks</h1>
                 <div>
-                  <div className="item">NodeJS</div>
-                  <div className="item">ExpressJS</div>
+                  <div className="item">NodeJS + ExpressJS</div>
                   <div className="item">Laravel</div>
                   <div className="item">Ruby on rails</div>
+                  <div className="item">Django</div>
+                  <div className="item">Phoenix</div>
                 </div>
               </div>
               <div className="card">
@@ -208,6 +209,7 @@ function Current() {
                   <div className="item">Tailwind CSS</div>
                   <div className="item">Materialize</div>
                   <div className="item">Bootstrap</div>
+                  <div className="item">Ant Design</div>
                 </div>
               </div>
             </div>
