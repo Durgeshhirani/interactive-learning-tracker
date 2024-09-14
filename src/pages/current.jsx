@@ -136,6 +136,7 @@ function Current() {
                   <div className="item">HTML</div>
                   <div className="item">CSS</div>
                   <div className="item">javascript</div>
+                  <div className="item">Markdown</div>
                 </div>
               </div>
               <div className="card">
@@ -145,6 +146,7 @@ function Current() {
                   <div className="item">jQuery</div>
                   <div className="item">moment.js</div>
                   <div className="item">poppin.js</div>
+                  <div className="item">Vue</div>
                 </div>
               </div>
               <div className="card">
@@ -153,6 +155,7 @@ function Current() {
                   <div className="item">Tailwind CSS</div>
                   <div className="item">Materialize</div>
                   <div className="item">Bootstrap</div>
+                  <div className="item">Ant Design</div>
                 </div>
               </div>
             </div>
@@ -172,7 +175,6 @@ function Current() {
               <div className="card">
                 <h1>Back End Libraries</h1>
                 <div>
-                  <div className="item">Restify</div>
                   <div className="item">ExpressJS</div>
                   <div className="item">ruby(grapa)</div>
                   <div className="item">laravel(lumen)</div>
@@ -191,6 +193,7 @@ function Current() {
                   <div className="item">SQL</div>
                   <div className="item">PHP</div>
                   <div className="item">javascript</div>
+                  <div className="item">Go</div>
                 </div>
               </div>
               <div className="card">
